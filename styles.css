@@ -8,7 +8,7 @@ body {
 
 main { 
     display: grid;
-    grid-template-columns: 40% 60%;
+    grid-template-columns: 45% 55%;
     margin-top: 3em;
 }
 
@@ -35,14 +35,14 @@ hr {
     height: 1px;
 }
 
-h2, h3 {
+h2 {
     font-weight: 100;
     margin-bottom: 0;
 }
 
 h1 {
     font-size: 3em;
-    letter-spacing: .4em;
+    letter-spacing: .38em;
     padding-top: 1em;
     padding-bottom: 1em;
 }
@@ -55,6 +55,15 @@ h2 {
 h3 {
     font-size: 1em;
     padding-bottom: 1em;
+}
+
+#position {
+    padding-bottom: 0%;
+    font-size: 1em;
+}
+
+#education {
+    padding-bottom: 0%;
 }
 
 #mainLeft {
