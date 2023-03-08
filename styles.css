@@ -66,6 +66,10 @@ h3 {
     padding-bottom: 0%;
 }
 
+#insights {
+    padding-top: 1em;
+}
+
 .embed-container {
     position: relative;
     padding-bottom: 75%;
