@@ -66,6 +66,22 @@ h3 {
     padding-bottom: 0%;
 }
 
+.embed-container {
+    position: relative;
+    padding-bottom: 75%;
+    height: 0;
+    overflow: hidden;
+}
+
+.iframe-responsive {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
 #mainLeft {
     border-right: 1px solid lightgray;
 }
