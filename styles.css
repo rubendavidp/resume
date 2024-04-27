@@ -36,8 +36,8 @@ hr {
 }
 
 h2 {
-    font-weight: 100;
     margin-bottom: 0;
+    font-weight: 100;
 }
 
 h1 {
@@ -64,10 +64,11 @@ h3 {
 
 #subtitle {
     padding-bottom: 0%;
+    font-weight: 500;
 }
 
 #insights {
-    padding-top: 1em;
+    padding-bottom: 1em;
 }
 
 .embed-container {
